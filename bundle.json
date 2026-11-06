@@ -1,0 +1,687 @@
+{
+  "keys": [
+    {
+      "keyId": "000b7e47-fd86-476a-92c9-77cc75144a3b",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321007d608704a4749c31b9e318dab3bdd6ee7eebb12213be404e5e5afd25dcb93400",
+      "not_before": "2026-06-06T02:35:37.897Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "01f6e7af-f38e-46f0-ab14-4191f2695c6d",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100afea81a93715de241ec035d21035e66cc60642175e27b2980541f8735e7fada9",
+      "not_before": "2026-08-04T00:51:50.404Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "02f6942e-0d77-4668-9172-09d24e3f5082",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321009b9b268d6c0c31fc0a267f2330d3e3a1d322007f2094a129e4932041f91fa6b5",
+      "not_before": "2026-06-06T03:47:04.127Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "0a3965a198a749a5888f0eb81b9d259f",
+      "algorithm": "Ed25519",
+      "public_key": "87f8ba2e1acbd57f642ea92a87081173ab6d88dc5347ce7b897875e798f3095d",
+      "not_before": "2026-06-06T12:58:35.377Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "0ad1c1b3-9b45-45c9-8334-efc4fae8d246",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100e670a6b9a01994e2a152ac606a37d582afa7aa7735a0e6b4fec8e40d42fb5fd3",
+      "not_before": "2026-07-30T18:58:39.550Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "153e5f76-9cc6-483e-bb5d-3cbb18843f26",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321008841e954055652bf8ebd6c08c159b61c314e6947ff6db9950cf21c16a6e9b041",
+      "not_before": "2026-04-30T23:35:35.542Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "17b179c547814383a2794cd38fdae528",
+      "algorithm": "Ed25519",
+      "public_key": "cc85ee8040a42956b75fe3a672c174fb2ea17933041dc2a4c54b8d9d42164b52",
+      "not_before": "2026-08-04T00:51:54.871Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "1d2b3ab7-a889-4f72-814e-7501cc9d7c48",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210067edf768ac979c79e68306d5f11bccdc7e02a4d2363bcd8453585475349ebd87",
+      "not_before": "2026-06-06T05:03:29.658Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "2b717249-f8d2-4bcd-bcf3-4ed9bacd956f",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100040cd756bb40b657596cfb9355c22ffeeee594d38240e2a725a337fabc2db106",
+      "not_before": "2026-06-06T12:58:30.050Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "2c4be8efbb1240828c384a117e584e17",
+      "algorithm": "Ed25519",
+      "public_key": "fc4aa2cd9d6256cf5154520e774da642df492cd22e5ebc3db3785edf2c3dd097",
+      "not_before": "2026-07-30T18:58:45.597Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "2e8bedaf7ef341c9979d3ee0de5bfbbe",
+      "algorithm": "Ed25519",
+      "public_key": "f9e78cf76ef3d4342141d65fed3b95107fdf1c3997a79ceb967333f051756d0a",
+      "not_before": "2026-06-06T04:42:46.352Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "2f53196281f14477a02293b8386b9fc4",
+      "algorithm": "Ed25519",
+      "public_key": "b1e678871f1c56bb97c66a20fc2aa07fee26df3bd62ac646fdbcf32c7220c40d",
+      "not_before": "2026-06-15T19:28:42.636Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "34db31a7c8484f778cb70d8e134d6429",
+      "algorithm": "Ed25519",
+      "public_key": "59cd7c70b5608e419f3f202fca700c5813c63afe77f6e3b1a67c76eda2c434b3",
+      "not_before": "2026-06-06T05:07:50.870Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "36fdff37-1c63-48ea-b6db-89fae7b24909",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100267121513ce7237f932713b70464eb3cd2d09b52ae34a68d0003decf0a8632d7",
+      "not_before": "2026-06-06T12:41:59.066Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "39518a741a784df0b1ad9835a503a5aa",
+      "algorithm": "Ed25519",
+      "public_key": "ea7691d071eea78e9e08173d854d768e4633ae2f7084a0f442b46a36493dd72b",
+      "not_before": "2026-06-05T23:33:23.879Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "4add5ee5-2518-4831-834f-d41b6888b17d",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321007d17275d027007e44c8d38ccf9ac810db1ded435824191d7b6dc966e7df2dc36",
+      "not_before": "2026-07-30T19:21:58.220Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "556a7cc441bd4a3e85d3ab3c483aefb2",
+      "algorithm": "Ed25519",
+      "public_key": "b4cb3c65f2c5e28b32dbc35dcb5a4f47ac64be486ce2372d37cd58b4f26b19ff",
+      "not_before": "2026-08-25T13:57:24.520Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "570d25ca355a4408aee01c73df094139",
+      "algorithm": "Ed25519",
+      "public_key": "265c03e61b7e71e7c774925db24e378e651d45228882cb3604148cb4cbadd7d9",
+      "not_before": "2026-06-06T02:30:18.592Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "5785e4b3-131b-4c18-ae79-363377bd1131",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100b07d08b61a812d23920c967ae862989b674f62e825637ede6a60131baf39d6e0",
+      "not_before": "2026-06-05T23:39:40.797Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "57defdd0-aacd-4bcc-b9ea-0bb995e5c3ae",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210042ee32abea39c78e0d41f88491a16b42ce5bad118d8b4ec88f25f9e3eb649e97",
+      "not_before": "2026-04-30T23:35:35.555Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "5a786299-2dc3-4e5d-bb37-f41daea26771",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100bb278cc559398da6a042995b259d01e3982c0ebbeb7001c4e4d8029207e12dc0",
+      "not_before": "2026-04-30T22:47:18.911Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "5b35838c-cef2-4d7c-9d37-13a79b3394c7",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321009056ec7287e5f83d21496e88d9e26a17f846f284c5e274402f5d78b4f8e95f1d",
+      "not_before": "2026-04-30T23:35:35.551Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "5cdbbfb5d3c148588524141a1ca2643f",
+      "algorithm": "Ed25519",
+      "public_key": "0052a97edf058b53065c05e65339e661e65295acd6c5ccb914429e30471d2b60",
+      "not_before": "2026-08-17T15:17:07.550Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "5e1ce724-41a2-48b7-b180-8bea8db1fb15",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321002fa528e546645fe36f9a6b0e718dd107dc3f2691671327249c9d03ede5a3015a",
+      "not_before": "2026-06-06T02:08:47.333Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "61553bfc-56d4-4bee-a5ba-5098ec1c8773",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100757ffeb2662627ae844f030f3d65df05cab2248e161aae45e58fc0e6e07549f2",
+      "not_before": "2026-06-08T13:49:29.318Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "62c83bc0-37c2-4162-85ac-5a355ca814b8",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321006a82ada74e305b3282cf7d24d5451e2769120738ecedbea1b7c9729568189706",
+      "not_before": "2026-06-06T02:41:55.160Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "644b5207-c813-4589-96b2-db5106d562e7",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321004649d345a1c297743f57e08af9c20158eabb20bcc8e516398ecb47a5ed8201e1",
+      "not_before": "2026-08-25T13:57:24.459Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "6616020c-c3ff-43e0-9b9d-ae2fb02165ea",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100e3db271fa4ae1bded88d68377bb51b61f2a4c60db3c5e19c27ed92fc606b5bd3",
+      "not_before": "2026-06-06T04:48:00.226Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "675c8c4a-1eed-46c7-84e6-fe2a8a0204bf",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210043e6b316f782e635cd1d443b79c3f38dc21b3ee47f148f4df8ecd71c334c25e8",
+      "not_before": "2026-06-06T02:19:26.893Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "6847bcd792ef4408ac8bfd0a438520fe",
+      "algorithm": "Ed25519",
+      "public_key": "39106aa23f6bcb03df80dc7be64bac56e3388c0197dbb79a4665bc1911ee3cf7",
+      "not_before": "2026-06-06T02:19:32.078Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "69c03d546c734f7f8de5e4a8b2d25922",
+      "algorithm": "Ed25519",
+      "public_key": "17bbed7d1ac6edbab7972e18ac549f2e791a28282a2aafe1b4ab73eaae8f5ebf",
+      "not_before": "2026-06-06T04:53:49.327Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "6b9b9ba0-4ff5-4835-a24f-63b7c8e0a1b3",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210005ab2959db915bf894d2af9ddb255baae2ba0fa1be8505ceaaab35eac630040e",
+      "not_before": "2026-06-06T04:52:29.285Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "6e64cb95-26c5-4b99-8946-08927cd1aa37",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210057e806e0bf7aa7740fc5542402370fc6475051e8aa783c19c16d08f6a0058e85",
+      "not_before": "2026-04-30T23:35:55.993Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "7ab06c9a-73da-48b3-a287-2475bbfa2dc8",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321007589d5cd78348a7f409d090531cdace9f0bd3995f3b87421dc9d6710b09a949b",
+      "not_before": "2026-09-08T18:19:10.083Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "7c1461f3-0d4c-4c4d-bab3-d5fae7388fb2",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321005f1b61fad9e8baf68da64f409b9f72351ac4eed37faee70602140e80e15c117d",
+      "not_before": "2026-04-30T23:35:35.540Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8225d00d248b4841b9658c3d00a0042c",
+      "algorithm": "Ed25519",
+      "public_key": "e8bcdaffcc09e1e387e0ae95b5849e90f87e4f5d3dabf230d943de41c4f62ca4",
+      "not_before": "2026-06-06T04:01:11.359Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "85e435b172c1434da7b65aacb73915af",
+      "algorithm": "Ed25519",
+      "public_key": "49502d20d52b60b7796b1b375a3366a5b7226755fd697f0f5748111d680c0806",
+      "not_before": "2026-06-06T05:03:34.946Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8734b7a04f01424285d185f1f08ee02f",
+      "algorithm": "Ed25519",
+      "public_key": "483df960ccd2923ebd55f8bffadd0b5c9bd69c3ca6c864795e2578022014b36f",
+      "not_before": "2026-06-06T02:10:13.687Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "88492f87-5991-434a-af86-f56ff1979ad3",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100e00ab57b6bd13e50a788ae73da3ea4453e9f99d374ae23513cd0c7fef37f9ede",
+      "not_before": "2026-06-07T18:07:59.927Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8aaba7cb-47e4-4003-9583-a6856b6afafc",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321004f41fb4a78b7e70c54e0f1f9a982c3c9a1574f7971e79b06c4f9709bae319e11",
+      "not_before": "2026-08-15T16:58:30.269Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8b169a78-88a9-4178-ac5e-9f0f782dd41d",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321001770ce6f7c17118d42994db7813684f0f57046de9608659038b43f8e9fa2d002",
+      "not_before": "2026-06-06T02:59:28.668Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8bd99a03d5b84175ae7b8b34320c7f91",
+      "algorithm": "Ed25519",
+      "public_key": "01048a09a2f8a923bb83b7b463a9340319a54bce2c8bcb80dab4452a1f6e419d",
+      "not_before": "2026-06-05T23:39:46.564Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8bdd540f-c2d8-4da5-baec-e98c4bd3ceb1",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321007fa8c24c494120b033c9021b31b73814e4143ac7cd5e5efbaae76f835f59b13b",
+      "not_before": "2026-06-05T23:27:44.702Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8beab55e-7a7c-4628-9ea9-0527ba673061",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100cc7b49f4e9ce33664db5cf0a7a2fed411092735b1d3dbb7e7ef8df839671b38a",
+      "not_before": "2026-06-06T15:03:01.011Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8eacef14-8396-44e1-8569-8c3b215dd896",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210003cd261292175c288de0a089e6066de7e420a0a417310a8265d85464d6d9af3d",
+      "not_before": "2026-06-08T23:39:50.917Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "8f1a9a3f-f722-4a90-813d-a7a2f00df2d6",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100fb563d469a17f7ad69b4b586cad22a321e42049ea5fae0ea0a811f84bd1067f1",
+      "not_before": "2026-07-06T17:06:08.130Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "945c1e0c-5817-458a-a79b-f30aef76e1fa",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321009fd30d9850dc11b2bdb8a49cdd34c11c7b06e0ac4b70f2fd663b76b7aa679e6a",
+      "not_before": "2026-06-06T12:46:45.015Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "98b8f7cb-317e-40b0-a2ef-63e12d47aa83",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100b0cc9558e73110ce079a9e3538786e8079807283960091e8bea8c8b7abbb8e05",
+      "not_before": "2026-06-06T05:07:45.689Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "9d136ec4-a086-4246-b63d-3fa5c295b682",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321003593bd378fa49957346030b7723c34dbe7111f49b4f22463f43f78e7627c8d34",
+      "not_before": "2026-08-10T17:59:39.090Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "9e8a98030473485495ba5117ef8d7b19",
+      "algorithm": "Ed25519",
+      "public_key": "003fe9d421d48888f6c77b87de06343e94ebf55137356b00738da5f2a9bbe10b",
+      "not_before": "2026-06-06T04:52:34.545Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "9f7afa17d697416aab79811fa9884e1b",
+      "algorithm": "Ed25519",
+      "public_key": "a051ff67fac4d653f9ae18cdc104f8b329cc4231f704c51c011702e1c11dcc92",
+      "not_before": "2026-06-06T02:35:43.435Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "a7b8dc66-2720-4ff6-89ec-718dc9b56d7c",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100dd19ccb060a3f32e90002930a7701b5661ba8a047a17d3d53a4274cef74f2206",
+      "not_before": "2026-06-06T04:01:06.311Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "a834cbe6e1ba419cb558f453f1f1e316",
+      "algorithm": "Ed25519",
+      "public_key": "250fdbce15de8c721cdceb87245b7a159119fda21d2b71d5afa05192f3d3e5b5",
+      "not_before": "2026-06-22T15:46:30.658Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ab01be69-5986-4350-b712-6dd4604280d6",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210000fa2f6d879b79fa89b498285d139d2ccbbbe8833513130c75a451e7e52bc346",
+      "not_before": "2026-06-06T02:24:48.270Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ac23c8261b75480a9afd2ead25623aa3",
+      "algorithm": "Ed25519",
+      "public_key": "e455163f6ff06ecf2b5021d9c26ecb08da7726bc9b6d7ce5eb1b8ca06e91abd5",
+      "not_before": "2026-06-05T23:18:00.537Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ad33a097-cc9e-42d2-8aa1-e6f6f04861c2",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100fa6fca9450e2f6aa6d6592eadcafd2fe8d3b4836bb5462fcd84db96fd208dd60",
+      "not_before": "2026-08-01T16:17:13.716Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "adce873d879e464e814e52165f484a59",
+      "algorithm": "Ed25519",
+      "public_key": "636344fbb948ff986cdd1e5aab9176725be5b655f6858e1e79e804daf27864fb",
+      "not_before": "2026-06-07T18:08:08.629Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "advisory-test-key",
+      "algorithm": "Ed25519",
+      "public_key": "b8a79b519fbfb8bea4c14d9efa5c25de9450d4163b7caf5a6d1c380795c737ef",
+      "not_before": "2026-08-15T16:43:36.977Z",
+      "not_after": "2026-09-25T14:36:26.000Z",
+      "revoked_at": "2026-09-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "b0a1bd26c25a45c39b34d1034a42ad95",
+      "algorithm": "Ed25519",
+      "public_key": "00000cbd3b3f85cad95afc3928b0ecdff63ac411de1b4888135ee05b4ff44968",
+      "not_before": "2026-06-06T00:11:46.811Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "b2b310a6-fa42-4742-98ed-6a7f4248bfa4",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100f69f8410f8be2206539ed4b333c6a30c548ff1c5752dbcc65c5a55ac85855c4d",
+      "not_before": "2026-08-01T16:11:21.264Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "b48b87aeab924781a3c1b7c8cc132040",
+      "algorithm": "Ed25519",
+      "public_key": "11a0d5d1940eca46bda8ed15935f8e29bfee4cf32c0766701fb12974340ef9b3",
+      "not_before": "2026-09-10T14:51:48.499Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "b676eceed2294b71ad8ee5cfdc5b55b6",
+      "algorithm": "Ed25519",
+      "public_key": "604ddc70bd3180657df5e5b0751ad6a79a3b9a3d72bab0d234190519f9320529",
+      "not_before": "2026-06-06T07:34:36.746Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "b8081963-7172-49cc-922e-023743acdf2e",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321001a8500e996ca9e8afda06e2c99aa7f62b28a3720adec67b6d81c689d613ae7ac",
+      "not_before": "2026-06-05T23:45:08.432Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "bab0e098-4a1c-4fdd-91e2-c5ba131957e6",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321005e31d43b2ff6e967d0ee19701e10bac88c3e468a4c2a6df7fb06142d81ac74f4",
+      "not_before": "2026-06-06T04:58:30.526Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "babc581315af47f1a8103d929d037348",
+      "algorithm": "Ed25519",
+      "public_key": "e50db2e415e30ef849fd1be9f3db680dce0a5d24614f4a90ca7e8abec5026dc6",
+      "not_before": "2026-06-06T03:47:09.101Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "bfd5cfe9-c7c2-4fa8-a654-03ce5f5e32fe",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100e1e5f179b8fd9414b0f677734dca3027b90fc77ba0f6280e2e335a882298bec5",
+      "not_before": "2026-04-30T23:35:35.545Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "c0f5c3e8-0cb4-411a-a2dd-378329a9f313",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100d8e2bab74ad8607c91cbe844d7da482a5f40a666b31dc47cc351b69855508ef6",
+      "not_before": "2026-06-22T15:46:24.464Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "c23f9c28-9e1f-4f03-8f0b-09b276d0c499",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100a4e87012f92fa4405fe9b18adaff2a8cd09b3b019de315c65641797a029dbcba",
+      "not_before": "2026-06-06T07:18:02.283Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "c745a81e-4324-426f-b557-35928eb11330",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100b163eea95b4645e3e15635aad0ca6957b07cdb9a187bbe1eaf04f06e000dfcfc",
+      "not_before": "2026-06-06T04:53:44.077Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "cb33dd6cd1aa432baf0cdb918d89a5ea",
+      "algorithm": "Ed25519",
+      "public_key": "144f62e571349e688596b33d67d42783dde8adcd90fad7c513588f245c941c50",
+      "not_before": "2026-06-06T04:58:36.541Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "cb833f06771948bc88c9ea49552b1123",
+      "algorithm": "Ed25519",
+      "public_key": "f9704f564e19ebcadddc5688ad97c53b7afc852a5d491f94aff4bf5e5749716e",
+      "not_before": "2026-07-30T17:50:43.887Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ce82b9d5-a1e6-4f74-b143-216f4a30c8b2",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210064e030cd0a14c07910f48267a3136c3faf9442f241c49d00ad51fd215a61506e",
+      "not_before": "2026-09-13T16:21:49.841Z",
+      "not_after": "2027-01-11T16:21:49.841Z"
+    },
+    {
+      "keyId": "ced1ae093e5642d78f9406b4e257360b",
+      "algorithm": "Ed25519",
+      "public_key": "177938706c262f4b42de7c9bfcd7a2b19e5fa7fde91dafee4e05c1bd0c196fef",
+      "not_before": "2026-06-06T02:53:06.152Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "d0c970ce3ae14e849761af91b8785266",
+      "algorithm": "Ed25519",
+      "public_key": "08db320a6c3cb80a66af6acc24b8ec4a04c1cf484f9728f10ba6b6131b32220d",
+      "not_before": "2026-07-30T19:22:04.342Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "d252077f-7d21-4318-9b2e-effb3b68ecba",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210069dc90f8f19e001c657ca97b1bf4719e2579666a064efc4e054da9e2b68ce1fb",
+      "not_before": "2026-04-30T23:35:35.535Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "d5b27967d3c342a8a6d98c5ce317dfec",
+      "algorithm": "Ed25519",
+      "public_key": "d1334b12dfbccd8c316e41509193dfaa6a3c7dd074281b74b6bb6aa77e937c3c",
+      "not_before": "2026-08-01T16:15:15.230Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "d9ec8667911e430aade090165b68d612",
+      "algorithm": "Ed25519",
+      "public_key": "1194d9ac71936875b5b58480198e91db1babc571b8f8d7e7f63ad978bf72dc00",
+      "not_before": "2026-06-06T12:42:04.165Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "daa4defc-c0ae-4b4e-95d1-48af2c0e64a6",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321008ce2af9ccc89b3faf1e9650b3e7a41509b575bf7e985ecacbffb9567bc2230cc",
+      "not_before": "2026-09-10T21:22:56.106Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "dfee52b76fce4f029689d9f4e40cf1fd",
+      "algorithm": "Ed25519",
+      "public_key": "e9952e19b3db0dc8b6409e96147b9b8abeb309162d55102aa44a1a7b707b499c",
+      "not_before": "2026-08-01T16:17:21.043Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ea5b87722a3a4da590da9749cd4a1541",
+      "algorithm": "Ed25519",
+      "public_key": "b3292bf9cf7a5c355dc5d3fe1c71f6db77dec9d216b6fe7ec25519dde8f8a16f",
+      "not_before": "2026-06-06T04:48:05.448Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "eb47e4b3ca6443588481f68bf3cea9c7",
+      "algorithm": "Ed25519",
+      "public_key": "dfd5d53857bf3bdbd5dacbc603b92fd59fe77d5dc9d28641a47bb24526708b6f",
+      "not_before": "2026-06-06T02:59:33.562Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "eb4c2be3e7064b3692ddb54c3d1bff6a",
+      "algorithm": "Ed25519",
+      "public_key": "04d2c78d9b1a526836cfd81576f1e4c8996f5cfb833f4051760a837b0e01d10d",
+      "not_before": "2026-06-06T03:32:51.137Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ed3d39f7063840388c97e3c8583d1839",
+      "algorithm": "Ed25519",
+      "public_key": "33d2aa9d989af86f53a1c4e5bfce4a9d9bbd448f27f50a41854d5ea47a07492f",
+      "not_before": "2026-06-08T13:49:37.730Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "f101e08353b04e829cf5dadd04d40b8c",
+      "algorithm": "Ed25519",
+      "public_key": "850a93282a16dca60baf85fcc2464423ae9f940e97d1b399a1d74dcb995d6fea",
+      "not_before": "2026-06-06T05:12:23.156Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "f3269a70-63ae-45f7-aa6d-1f171ccbab39",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b657003210012b3b1a0e2f081f5a82b6f765a60047230e68b0d6837d7a2bc2de2f26cbe64f7",
+      "not_before": "2026-06-06T04:42:41.246Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "f8cca30a-4582-43ea-a871-60a464b270f4",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b65700321007ec55fe57a0ddff4aa85a924a6eb01ee17ffcfebb293be350e97cac7967e8f22",
+      "not_before": "2026-06-06T05:12:17.917Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "f9bea207d191431ca39455eb24afc1a6",
+      "algorithm": "Ed25519",
+      "public_key": "a71e84546bc162c1ec962d1fdbe2dbd350a1e2481c809d51799cf2b8aa2f4f55",
+      "not_before": "2026-09-10T21:23:04.159Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "fbbb5f4650954ca29e006058fa99e708",
+      "algorithm": "Ed25519",
+      "public_key": "d51cbd16ad115c916f6e2fe8fcf89758c3218456790096df195bc130e2a0eb2b",
+      "not_before": "2026-06-06T12:46:50.045Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "fc44885a5c284a7a8fd828be8eda376d",
+      "algorithm": "Ed25519",
+      "public_key": "fc270076f83a3e934f333288e5518b27bc722c5ed429248defbe4dea72ddce5a",
+      "not_before": "2026-06-07T18:01:48.330Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ff41269b-2f50-4fa0-be42-d6a1844a4e0c",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100912f16a88217279a18a82cc054ae4670f4dddb3d97ae95f3f29470427ab984ed",
+      "not_before": "2026-06-06T03:32:46.068Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "ff94650f-fbc3-4893-aa6c-645bb2522a40",
+      "algorithm": "Ed25519",
+      "public_key": "302a300506032b6570032100b6e1873247fd5b4680556a62237e5896290c0448144d9df805f37f8d08eeb9db",
+      "not_before": "2026-04-30T23:35:35.544Z",
+      "not_after": "2026-10-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "k-caller",
+      "algorithm": "Ed25519",
+      "public_key": "00",
+      "not_before": "2026-08-15T16:43:36.995Z",
+      "not_after": "2026-09-25T14:36:26.000Z",
+      "revoked_at": "2026-09-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "k-test",
+      "algorithm": "Ed25519",
+      "public_key": "deadbeef",
+      "not_before": "2026-08-15T16:43:37.082Z",
+      "not_after": "2026-09-25T14:36:26.000Z",
+      "revoked_at": "2026-09-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "k-trusted",
+      "algorithm": "Ed25519",
+      "public_key": "00",
+      "not_before": "2026-08-15T16:43:36.995Z",
+      "not_after": "2026-09-25T14:36:26.000Z",
+      "revoked_at": "2026-09-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "l1-grounding-test-key",
+      "algorithm": "Ed25519",
+      "public_key": "7109971bfcf8d87da0af99a2d5c12c3b1cef305e374e25c3ac07868a0d71e313",
+      "not_before": "2026-08-15T16:43:37.015Z",
+      "not_after": "2026-09-25T14:36:26.000Z",
+      "revoked_at": "2026-09-25T14:36:26.000Z"
+    },
+    {
+      "keyId": "l4-entailment-test-key",
+      "algorithm": "Ed25519",
+      "public_key": "64e0739a06d0d47eb42bf6cee2f664d02f4cbf8ba3da25e2db426ac2c7f3b324",
+      "not_before": "2026-08-15T16:43:36.998Z",
+      "not_after": "2026-09-25T14:36:26.000Z",
+      "revoked_at": "2026-09-25T14:36:26.000Z"
+    }
+  ],
+  "bundle_version": 1,
+  "issued_at": "2026-11-06T16:35:02.754Z",
+  "expires_at": "2026-11-13T16:35:02.754Z",
+  "root_key": "819f54b28ed4f39c37bd2a5837fb339ef881573b3ee46f85246ed9ad6a2e6666",
+  "root_sig": "QMryAxD5IwJ9idsKegT_AvSgkwAxcHZQ-HLNZPmyO9dhEt2Y3TaAbaKa0jCxahf8ZEsbaHcYm1WDsXENJoLlCA"
+}
