@@ -14,4 +14,7 @@ keys that chain to this publication root. Pin it from here, not from the record 
 
 Git commits from 2026-11-06 onward are signed with my SSH signing key; GitHub shows them as **Verified**.
 
+The current key bundle, signed by this root, is [`bundle.json`](bundle.json). It is valid for 7 days
+and refreshed automatically; verifiers use it to confirm a signing key has not been revoked.
+
 Rotation or revocation of this root will be announced here, signed by the outgoing key.
